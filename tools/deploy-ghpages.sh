@@ -12,7 +12,7 @@ REPO_URL="https://github.com/amitnz-web/covercheck-nz.git"
 
 # Default: the project-site URL, which lives under /covercheck-nz.
 # To move to the custom domain once the IONOS CNAME exists, run:
-#   CUSTOM_DOMAIN=cover.amit.marketing bash tools/deploy-ghpages.sh
+#   CUSTOM_DOMAIN=insurance.amit.marketing bash tools/deploy-ghpages.sh
 # which serves from the root and therefore needs no base path.
 if [ -n "${CUSTOM_DOMAIN-}" ]; then
   export BASE_PATH=""

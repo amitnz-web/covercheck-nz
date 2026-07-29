@@ -3,7 +3,8 @@
 Plain-English insurance guides, real New Zealand numbers and three free calculators — an organic-search
 information site that introduces readers to a licensed financial adviser when they want actual advice.
 
-**Live:** https://amitnz-web.github.io/covercheck-nz/ (moving to `cover.amit.marketing`)
+**Live:** https://insurance.amit.marketing — pending one IONOS CNAME record (`insurance` → `amitnz-web.github.io`).
+See `../PLAN.md` for the DNS step and the rollback command.
 
 ## Commands
 

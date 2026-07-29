@@ -1,8 +1,8 @@
 export const SITE = {
   name: 'Cover Check',
   longName: 'Cover Check NZ',
-  domain: 'cover.amit.marketing',
-  origin: 'https://cover.amit.marketing',
+  domain: 'insurance.amit.marketing',
+  origin: 'https://insurance.amit.marketing',
   tagline: 'Insurance in New Zealand, explained without the sales pitch.',
   description:
     'Plain-English guides, real NZ numbers and free calculators for life, health, income protection and trauma cover. No email gate, no sales pitch.',
