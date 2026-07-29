@@ -163,7 +163,19 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: var(--s5) 0; }
   letter-spacing: -.028em;
 }
 .serif { font-family: 'Fraunces', Georgia, serif; font-optical-sizing: auto; }
-h1 { font-size: var(--f-h1); }
+/* Type system: Fraunces carries the STATEMENTS (page titles, big figures, pull
+   quotes), Poppins carries the STRUCTURE (section headings, UI, body). Without
+   this rule article titles fell back to Poppins while the home hero was serif,
+   which read as two different sites. */
+h1 {
+  font-size: var(--f-h1);
+  font-family: 'Fraunces', Georgia, serif;
+  font-optical-sizing: auto;
+  font-variation-settings: 'SOFT' 0, 'WONK' 0;
+  font-weight: 400;
+  letter-spacing: -.024em;
+  line-height: 1.06;
+}
 h2 { font-size: var(--f-h2); }
 h3 { font-size: var(--f-h3); }
 .lead {
