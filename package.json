@@ -1,0 +1,12 @@
+{
+  "name": "covercheck-web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "verify": "node build.mjs && node verify.mjs",
+    "serve": "node serve.mjs",
+    "assets": "node tools/fetch-photos.mjs && node tools/fetch-fonts.mjs"
+  }
+}
