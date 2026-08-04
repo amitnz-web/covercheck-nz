@@ -1,0 +1,39 @@
+# Cover Check NZ
+
+> Cover Check NZ explains how life, health, income protection, trauma and business insurance actually work in New Zealand — in plain English, with real price ranges and free calculators, and without a sales pitch, an email gate or a quote form. It is general information only, not regulated financial advice. Published by Amit Sharma; readers who want advice are introduced to Arron Nettmann, a licensed Financial Adviser at Buffer Insurance in Auckland.
+
+Last updated: 2026-08-04
+
+## Key Facts
+
+- Site: Cover Check NZ — https://insurance.amit.marketing
+- Answers: what each type of NZ insurance covers, what it costs, and where ACC leaves a gap
+- Pages published: 34 indexable (34 total), including free calculators that need no email address
+- Regulatory line: this site publishes general information only. Recommending a product or an insurer for someone's situation is regulated financial advice in New Zealand and requires an FMA licence, which this site does not hold. The build fails if advice phrasing appears in copy.
+- Dated-source doctrine: every published figure carries a dated source line. Cost figures are compiled from published New Zealand comparison sources (MoneyHub, Policywise, Quashed, QuoteHub) and insurers' own published material, as at July 2026. An undated premium figure is worthless, so none is published.
+- Ranges, not fake precision: premiums are published as ranges because no one can price a policy without underwriting. Where a range would mislead, the shape of the cost is explained instead of a table.
+- No invented people: no fabricated testimonials, no fictional case studies presented as real clients, no stock-photo advisers.
+- No advertising and no email gate. The site's purpose is to introduce readers to a named licensed adviser: Arron Nettmann, Financial Adviser at Buffer Insurance (https://www.bufferinsurance.co.nz), serving all of New Zealand.
+
+## Key Pages
+
+- https://insurance.amit.marketing/ — Cover Check NZ: Insurance Explained, No Sales Pitch
+- https://insurance.amit.marketing/types-of-insurance — Types of Insurance in NZ: What Each One Does
+- https://insurance.amit.marketing/what-acc-does-not-cover — What ACC Does Not Cover in New Zealand (2026) — The Illness Gap
+- https://insurance.amit.marketing/life-insurance-nz — Life Insurance NZ: How It Works and What It Costs
+- https://insurance.amit.marketing/health-insurance-nz — Health Insurance NZ: Cover, Cost and Is It Worth It
+- https://insurance.amit.marketing/income-protection-nz — Income Protection NZ — How It Works, Cost, and the ACC Overlap
+- https://insurance.amit.marketing/what-it-costs — What Insurance Costs in New Zealand (2026) — Real Ranges by Age
+- https://insurance.amit.marketing/life-insurance-cost-nz — How Much Does Life Insurance Cost in NZ? (2026 Premiums by Age)
+- https://insurance.amit.marketing/income-protection-vs-mortgage-protection — Income Protection vs Mortgage Protection NZ
+- https://insurance.amit.marketing/how-much-life-cover-do-i-need — How Much Life Insurance Do I Need? NZ Calculator (Free, No Email)
+- Full page list: https://insurance.amit.marketing/sitemap.xml
+
+## Publisher
+
+Amit Sharma — https://amit.marketing/ (entity id: https://amit.marketing/#person). Auckland real-estate agent and marketer. Builds free, sourced data tools.
+
+- YouTube: https://www.youtube.com/@AmitSharmanz
+- Facebook: https://www.facebook.com/AmitSharmaNZ
+- Instagram: https://www.instagram.com/amitsharmaofficial
+- TikTok: https://www.tiktok.com/@amitsharmanz
